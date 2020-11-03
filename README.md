@@ -32,7 +32,7 @@ docker-compose up
 
 visit [http://localhost:5003/](http://localhost:5003/ "http://localhost:5003/") page of client (showing random data)
 
-to check real time change hit server API end point ([http://localhost:5000/api/v1/change/dashboard](http://localhost:5000/api/v1/change/dashboard "http://localhost:5000/api/v1/change/dashboard"))
+to check real time change hit server API end point ([http://localhost:5001/api/v1/change/dashboard](http://localhost:5001/api/v1/change/dashboard "http://localhost:5001/api/v1/change/dashboard"))
 
 now you able to see real time change dashboard
 
